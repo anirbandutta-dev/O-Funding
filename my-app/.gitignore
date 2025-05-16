@@ -42,7 +42,7 @@ next-env.d.ts
 # .gitignore
 
 # Ignore environment variable files
-.env
+.env.local
 .env.*
 !.env.example  # Keep a safe example file for reference
 
